@@ -13,25 +13,25 @@ skills:
   # At least 5 skills
   proficient:
     - Machine Learning (Anaconda & Jupyter Notebook)
-      - Neural Networks Modelling
-      - Python
-      - RDBMS/SQL
-      - Agile/Scrum
-      - Git
+    - Neural Networks Modelling
+    - Python
+    - RDBMS/SQL
+    - Agile/Scrum
+    - Git
   # At least 5 skills
   competent:
     - Linux/Bash
-      - Java
-      - Android Studio
-      - Selenium (QA)
-      - Swift Xcode
+    - Java
+    - Android Studio
+    - Selenium (QA)
+    - Swift Xcode
   # At least 5 skills
   familiar:
     - C#
-      - .Net
-      - Javascript
-      - Web development
-      - JIRA/Bitbucket
+    - .Net
+    - Javascript
+    - Web development
+    - JIRA/Bitbucket
 
 # List of Jarvis projects
 jarvis_projects:
@@ -102,8 +102,11 @@ education:
   - school_name: "St. Kabir School"
     duration: "2001-2018"
     degree: "High School"
-    department: ""
-    awards_achievements: 
+    department: "Mathematics, Science"
+    awards_achievements:
+      - "Scholarship"
+      - "Dean's List (2015, 2016): Ut enim ad minim veniam"
+      - "GPA: 3.2/4.0"
 
 #Optional section
 others:
