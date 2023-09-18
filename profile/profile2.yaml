@@ -1,33 +1,18 @@
 # Preferred name (Characters only)
 name: "Nisarg Khandhar"
 # Your GitHub repo root URL
-<<<<<<< HEAD
-github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_demo
-
-# Introduce yourself, your academic and professional background.
-# What excites you about the software industry and your passion. At least 80 words
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed venenatis a orci ac malesuada. Vivamus ligula elit, viverra eu ante porttitor, blandit convallis augue. Aliquam justo justo, mollis at lacus eu, rutrum finibus est. Vestibulum venenatis purus id accumsan pretium. In efficitur magna nec enim laoreet tincidunt. Ut libero metus, scelerisque nec eros vitae, sagittis pellentesque enim. Donec dictum felis volutpat, vehicula magna eu, imperdiet elit. Phasellus ut velit a massa efficitur faucibus. Sed volutpat, lacus sed sagittis luctus, elit.
-
-=======
 github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_nisarg
 
 # Introduce yourself, your academic and professional background.
 # What excites you about the software industry and your passion. At least 80 words
 summary: Passionate and innovative tech enthusiast with a strong machine learning and analytical background and a deep curiosity for hidden patterns and insights in data. Committed to continuous learning and collaborative problem-solving.
->>>>>>> develop
 # Group your skills by level.
 # Your skills can be anything software related (e.g. language, frameworks, methodologies, software, etc.).
 skills:
   # At least 5 skills
   proficient:
-<<<<<<< HEAD
-    - Linux/Bash
-    - Machine Learning
-    - Neural Networks
-=======
     - Machine Learning (Anaconda & Jupyter Notebook)
     - Neural Networks Modelling
->>>>>>> develop
     - Python
     - RDBMS/SQL
     - Agile/Scrum
@@ -50,21 +35,6 @@ skills:
 # List of Jarvis projects
 jarvis_projects:
   - name: "Cluster Monitor"
-<<<<<<< HEAD
-    git_url: "/linux_sql"
-    # The project description allows hiring managers to understand your project and technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
-    # The project description must start with an action verb (https://bit.ly/3guO98u)
-    description: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
-  - name: "Core Java Apps"
-    git_url: "/core_java"
-    description:
-      - "Twitter App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
-      - "JDBC App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
-      - "Grep App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
-  - name: "Springboot App"
-    git_url: "/springboot"
-    description: ""
-=======
     git_url: "git@github.com:jarviscanada/jarvis_data_eng_NisargKhandhar.git"
     # The project description allows hiring managers to understand your project and technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
     # The project description must start with an action verb (https://bit.ly/3guO98u)
@@ -76,7 +46,6 @@ jarvis_projects:
   - name: "Meet & Greet App"
     git_url: "https://github.com/nisargvk/Meet-Greet.git"
     description: "Created app in XCode using Swift, that helps hosting and finding meetups and gatherings. Used Firebase authentication for storing data.   "
->>>>>>> develop
   - name: "Python Data Analytics"
     git_url: "/python_data_anlytics"
     description: ""
@@ -94,17 +63,6 @@ jarvis_projects:
 # Feel free to add more projects
 highlighted_projects:
     #project name
-<<<<<<< HEAD
-  - name: "Web app for resturant"
-    #URL is optional
-    git_url: "https://github.com/jarviscanada/jarvis_profile_builder"
-    # The project description must start with an action verb (https://bit.ly/3guO98u)
-    description: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
-  - name: "Machine Learning"
-    git_url:
-    description: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
-
-=======
   - name: "Meet & Greet App"
     #URL is optional
     git_url: "https://github.com/nisargvk/Meet-Greet.git"
@@ -113,8 +71,7 @@ highlighted_projects:
   
   - name: "Jogging Buddy"
     git_url: "https://bitbucket.org/nisargv/jogging_buddy/commits/"
-    description:Collaborated with team member to create an app using Swift based application using Xcode14.0  with the Firestone firebase functionality to go for a run and calculate the heart rate and run statistics. 
->>>>>>> develop
+    description: Collaborated with team member to create an app using Swift based application using Xcode14.0  with the Firestone firebase functionality to go for a run and calculate the heart rate and run statistics.
 #List of professional experience
 #The job description allows hiring managers to understand your job and the technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
 #The description must be more than 25 words. If your experience is not software related, please focus on soft skills and achievements (e.g. team collaboration, problem-solving, improvements, communication).
@@ -125,13 +82,6 @@ professional_experience:
     duration: "2020-present"
     # The project description must start with an action verb (https://bit.ly/3guO98u)
     description: "Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis."
-<<<<<<< HEAD
-  - title: "Tutor"
-    company: "XYZ Company"
-    duration: "2019"
-    description: "Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis."
-
-=======
   - title: "Machine Learning Intern"
     company: "RBC"
     duration: "January 2022-December 2022"
@@ -142,7 +92,6 @@ professional_experience:
  Work with Engineering to develop second sources looking into lead time, cost, and alternatives.
  Engineered feature sets that improve the accuracy and performance of models are used in data analytics initiatives.
  Conducted data preprocessing."
->>>>>>> develop
 #List of edcuation
 education: 
   - school_name: "Sheridan College"
@@ -156,12 +105,8 @@ education:
     degree: "Bachelors of Computer Science (Mobile Computing)"
     department: "Application Development & Computer Engineering"
      awards_achievements:
-<<<<<<< HEAD
-      - "GPA: 3.2/4.0" 
-=======
       - "GPA: 3.2/4.0"
       - "Dean's List (2020,2021) 
->>>>>>> develop
 #Optional section
 others:
     #category
