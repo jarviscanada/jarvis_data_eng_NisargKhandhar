@@ -8,6 +8,12 @@ Create tables using ddl.sql
 Insert hardware specs data into the DB using host_info.sh 
 Insert hardware usage data into the DB using host_usage.sh
 Crontab setup
+# Architecture
+![Architecture.jpg](linux_sql_demo%2FAsset%2FArchitecture.jpg)
+Here as mentioned we have created a docker which mainly is providing us the application deployment. 
+Container here can mainly handle multiple applications with the same host for us it is the localhost 
+Thus we have a database for that host which is host_agent and we are saving the data from 
+host_info.sh & host_usage.sh where all data gets stored in the database (host_agent).
 
 # Implementation
 Basically starting the docker and postgres and running the host_usage and host_info scripts and adding all the data to the database.
