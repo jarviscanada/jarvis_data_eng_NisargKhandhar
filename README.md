@@ -15,7 +15,7 @@ Agile/Scrum, Git
 Project source code: [git@github.com:jarviscanada/jarvis_data_eng_NisargKhandhar.git]
 
 
-**Cluster Monitor** [[GitHub](git@github.com:jarviscanada/jarvis_data_eng_NisargKhandhar.git)]: In our cluster monitoring project, we embarked journey to streamline the process of monitoring hardware and usage specifications within a Google Cloud environment. Our project began with the creation of a dedicated Google Cloud instance, equipped with a Linux CentOS operating system. To facilitate remote access and management, we integrated VNC Viewer into our setup.
+**Cluster Monitor**[https://github.com/jarviscanada/jarvis_data_eng_NisargKhandhar/tree/develop/linux_sql/linux_sql_demo]: In our cluster monitoring project, we embarked journey to streamline the process of monitoring hardware and usage specifications within a Google Cloud environment. Our project began with the creation of a dedicated Google Cloud instance, equipped with a Linux CentOS operating system. To facilitate remote access and management, we integrated VNC Viewer into our setup.
 - To kickstart our development process, we leveraged IntelliJ Studio, a powerful integrated development environment, and downloaded it onto our instance. This served as the foundation for our coding efforts.
 - Our collaboration and version control efforts were centered around a GitHub repository, we meticulously organized our work across three branches.
   -   Feature Branch This branch became the home for all code-related activities, where we collectively added and fine-tuned various features.
