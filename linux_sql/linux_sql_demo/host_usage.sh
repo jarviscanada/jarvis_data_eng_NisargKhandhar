@@ -31,12 +31,8 @@ timestamp=$(date -u +'%Y-%m-%d %H:%M:%S')
 # Subquery to find matching id in host_info table
 host_id="(SELECT id FROM host_info WHERE hostname= '$hostname')";
 
-if [ -z "$host_id" ]; then
-    echo "Error: Unable to retrieve a unique host_id for $hostname"
-    exit 1
-fi
+
 # PSQL command: Inserts server usage data into host_usage table
-# Note: Replace column names and types as per host_usage table schema
 insert_stmt="INSERT INTO host_usage(timestamp, host_id, memory_free, cpu_idle, cpu_kernel, disk_io, disk_available) VALUES('$timestamp', $host_id, $memory_free, $cpu_idle, $cpu_kernel, $disk_io, $disk_available);"
 
 # Set up env var for psql command
